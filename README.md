@@ -56,6 +56,8 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |---|---|---|---|
 |Nujabes|Feather|Song|[link](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR?si=6tN_XbGeTxqoFwgZlIr5Ww)|
 |Ibrahim|Candles & Street Lights|Album|[link](https://open.spotify.com/album/6NBszs4KSfg22ltDGTCl4n?si=R92gSxroQsihfoMeHGnaRA)|
+|Various|Lo-fi beats|Playlist|[Link](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=771cdd088fb24d14)|
+|Various|Lo-fi Fruits Music|Playlist|[Link](https://open.spotify.com/playlist/3LFIBdP7eZXJKqf3guepZ1?si=fa160e92b7e04d63)|
 
 ## Metal
 |Artist|Name|Type|Link|
