@@ -13,6 +13,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |[Metal](#metal)|
 |[Misc](#misc)|
 |[Pop](#pop)|
+|[Rap](#rap)|
 |[Soundtracks](#soundtracks)|
 
 ## Ambient
@@ -87,7 +88,13 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Christine and the Queens|Chris|Album|[link](https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh)|
 |Michael Jackson|Thriller|Album|[link](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ)|
 |JO Mastic|Busy Guys|Album|[link](https://open.spotify.com/album/0PfolHyCFVkFge1NYwDLFq)|
+|Pabllo Vittar|Batidão Tropical|Album|[Link](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN?si=G1YhEt4nQOS-jiAspRjrgw&dl_branch=1)|
+|Doja Cat|Planet Her|Album|[Link](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW?si=yobFHhR6SfKFXweHcdYOEA&dl_branch=1)|
 
+## Rap
+|Artist|Name|Type|Link|
+|---|---|---|---|
+|Lil Nas X|Montero|Album|[Link](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR?si=48tITJXTS9-eRcbClrhddw&dl_branch=1)|
 
 ## Soundtracks
 |Artist|Name|Type|Link|
