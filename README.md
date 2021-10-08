@@ -42,6 +42,8 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Various|Electric Jams|Playlist|[link](https://open.spotify.com/user/22slh5nu2nlc3g4skclpnshbq/playlist/0RmGBg8pmcILnfN4wZUKo3?si=GjUt4_LgR6eKHZ2RVP_Yrg)|
 |Bag Raiders|Shooting Stars|Song|[link](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x?si=ThRZUizATyy2S0ZMjezQ4g)|
 |Various|WIP (Work in Progress)|Playlist|[link](https://open.spotify.com/user/bwandin/playlist/2xWIxCqVb0gPK6EQMbtmqr?si=p4qwlX-_S6eqvTJZQQyECQ)|
+|Fear and Loathing in Las Vegas|All That We have Now|Album|[link](https://open.spotify.com/album/5a8NyykjKg0IDUKHslgNgm?si=jZnH6_k0RHGsm_N4f29fpw&dl_branch=1)|
+|Fear and Loathing in Las Vegas|Feeling of Unity|Album|[link](https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY?si=-bMqctHpSde8LRpZKe7fUg&dl_branch=1)|
 
 ## Indie
 |Artist|Name|Type|Link|
@@ -103,3 +105,4 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Various|Video Game Masterpieces|Playlist|[link](https://open.spotify.com/user/wizzler/playlist/3FJd21jWvCjGCLx7eKrext?si=hGJiVv4-TKuCb1LBn1qThg)|
 |Various|Fallout 4 - Diamond City Radio|Playlist|[link](https://open.spotify.com/playlist/2JIuYQjoY4GnnLH0STezkK)|
 |Kristofer Maddigan|Cuphead (Original Soundtrack)|Album|[link](https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu)|
+|Mick Gordon|Doom(2016) (Original Soundtrack)|Album|[link](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp?si=XwCQ_UTyTUG0tiSqIiomkw&dl_branch=1)|
