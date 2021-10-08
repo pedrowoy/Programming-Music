@@ -15,6 +15,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |[Pop](#pop)|
 |[Rap](#rap)|
 |[Soundtracks](#soundtracks)|
+|[Rock](#Rock)|
 
 ## Ambient
 |Artist|Name|Type|Link|
@@ -59,6 +60,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Ibrahim|Candles & Street Lights|Album|[link](https://open.spotify.com/album/6NBszs4KSfg22ltDGTCl4n?si=R92gSxroQsihfoMeHGnaRA)|
 |Various|Lo-fi beats|Playlist|[Link](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=771cdd088fb24d14)|
 |Various|Lo-fi Fruits Music|Playlist|[Link](https://open.spotify.com/playlist/3LFIBdP7eZXJKqf3guepZ1?si=fa160e92b7e04d63)|
+|Mikel, GameChops|Pokemon Lofi|Playlist|[Link](https://open.spotify.com/playlist/59OrkYvGv0oM1KgPABU7nw?si=7b4bc62bc79c4fb2)|
 
 ## Metal
 |Artist|Name|Type|Link|
@@ -103,3 +105,10 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Various|Video Game Masterpieces|Playlist|[link](https://open.spotify.com/user/wizzler/playlist/3FJd21jWvCjGCLx7eKrext?si=hGJiVv4-TKuCb1LBn1qThg)|
 |Various|Fallout 4 - Diamond City Radio|Playlist|[link](https://open.spotify.com/playlist/2JIuYQjoY4GnnLH0STezkK)|
 |Kristofer Maddigan|Cuphead (Original Soundtrack)|Album|[link](https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu)|
+
+## Rock
+|Artist|Name|Type|Link|
+|---|---|---|---|
+|The Protomen|Act II: The Father Of Death|Album|[Link](https://open.spotify.com/album/5dVmbXxmkROv6smdOfTcyJ?si=P0wFnmCEQpqYAgztJnAh7A&dl_branch=1)|
+|Fall Out Boy|From Under The Cork Tree|Album|[Link](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp?si=oaIFr3OPTKqhG0kLNnkUPQ&dl_branch=1)|
+|21 Pilots|Blurryface|Album|[Link](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1?si=60a17L63Qqexpe8vREdRoA&dl_branch=1)|
